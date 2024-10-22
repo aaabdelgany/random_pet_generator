@@ -6,7 +6,7 @@ terraform {
     }
   }
 }
-
+ 
 provider "random" {
   # Configuration options
 }
